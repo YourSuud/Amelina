@@ -1,5 +1,4 @@
-import sys
-sys.setrecursionlimit(10000)
+
 def _sort(alist, start, end):
     """
     Быстрая сортировка для массива данных
